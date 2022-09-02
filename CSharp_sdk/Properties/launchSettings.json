@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "1-拉取会话数据": {
+      "commandName": "Project",
+      "commandLineArgs": "1 0 100 \"\" \"\" 60"
+    },
+    "2-拉取媒体文件": {
+      "commandName": "Project",
+      "commandLineArgs": "2 \"CiA4ZGFlYTMyNTM1NDgzYTVmOTAzNTBhNWNlNDg4ZTk0ZBI4TkRkZk56ZzRNVEk1T1Rnd05UQXhNVEUyTlY4eE5EQTFPRFkxT1RZelh6RTJOakl3T1RnNU56ST0aIDFmNGFmYzdkNmRhMjdiMDRiNzc4MGNmM2NkZjI3M2E3\" \"\" \"\" 60 \"./image.png\""
+    },
+    "3-解密数据": {
+      "commandName": "Project",
+      "commandLineArgs": "3 \"gd7V8diDlhlPsIEml5PwPt7+3xwi1/xtG3gU/99Eiixk5jLNpPgEbllcbWL6u/IO5VjUVawTRozbDHVxP8R6kA==\" \"JGhP8xIQzCoKd9gyWkr+1klsIIrHHGXZ7UMaC2GbZGD2nyeDLSNRihvQMiVgxTY8WPxDe9hHu/aO/2eGvSGQIu/vkeCjbikHaa/q2qfCEelQIH6KI5GnYJeF9k/Xyj8pDrd7aoiDlCyLI0YT61ujjYK+6O9jbW698hryELAcV07WqTVjuzD5Te2TAlwhrMH+kH+jBarhKb3QLawosoZ/FQZ1Br1dglX5zRfBzlIIYZ6jL80/3lXyEqDtQ0nqcHHO1M/y1QPEYt4tVTOijAOga5/F2nCZNjOKkdhgm7tbibsyd0v/x0LE5v8Kr6wF2+tejUPCqMK+x5yUjCg+Iw2rBqr44T2v9Wj33MIMZJkT0T5ZXO37hroQ60krmYPPsGG8B9UULLjPOcHX52lgahgUT2+LUws0ye55HTGHcZT/oLx4INrwoL+6qZrz1E73dcK5S+aAasBjxOgIkR9kpBC20r2mc4MY2SMvoWdo386qPMTD5yvZUF1cr7ZjEN1zJLIPgFzwyLehieRiRfUPrvFT/nKQcsupfajiDRSeURcmGDtc9INYMBgpF41vbXxEz68NUYInIiNR49Uf4mXoaAzFauEBfgoPp1tVJH0ZnOTm0zOJrJU1NSwvXghnp6whcYyry/4pIkVOZZpTjbPEnVMrn2hh8gkNvmxbcaDFChw=Z1VRIe\""
+    }
+  }
+}
