@@ -1,4 +1,4 @@
-# wework_finance_sdk
+# wework-finance-sdk-csharp
 企业微信 会话存档 sdk for csharp .NET 对接示例；
 
 示例中.NET Core 3.1实现，需要在 vs 2019 或以上版本运行；
