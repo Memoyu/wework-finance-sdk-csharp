@@ -16,7 +16,7 @@ namespace Sample
                 var client = new FinanceSample("[企业Id]", "[企业会话存档Secret]");
                 var privateKey = @"[会话存档RSA私钥(xml格式)]";
                 var (data, seq) = client.GetChatData(
-                    new Dictionary<int, string> { { 2, privateKey } },
+                    new Dictionary<int, string> { { 1, privateKey } },
                     0,
                     10);
 
@@ -73,7 +73,7 @@ namespace Sample
 
                 void OutputFile(ChatBase item, string fileName, byte[] bs)
                 {
-                    FileStream fs = new FileStream($@".\media\{fileName}", FileMode.Create);
+                    FileStream fs = new FileStream($@".\{fileName}", FileMode.Create);
                     fs.Write(bs, 0, bs.Length);
                     fs.Flush();
                     fs.Close();
